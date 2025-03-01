@@ -1,2 +1,4 @@
 # clock
-This is a website with many clocks.
+This is a website with some clocks.
+
+This project is using Tailwind. 
